@@ -1,0 +1,57 @@
+.button {
+
+
+}
+
+.button:link {
+color: beige;
+
+}
+
+
+.button:visited {
+    color:blueviolet(13, 218, 166);
+
+}
+
+.button:hover {
+color:beige;
+
+}
+
+.button.lang (ru) {
+    font-weight: 100;
+}
+
+.button.lang (en) {
+font-weight: 800;
+
+}
+
+
+.button2 {
+    border: 1px solid rgb(145, 109, 202);
+    background-color: rgb(187, 126, 33);
+    color: rgb(138, 194, 138);
+    padding: 100px 150px 100px 150px;
+    margin: 5px;
+    
+    }
+
+    .button3 {
+        border: 1px solid rgb(0, 0, 0);
+        background-color: rgb(231, 222, 209);
+        color: rgb(2, 49, 2);
+        padding: 100px 150px 100px 150px;
+        margin: 5px;
+        
+        }
+
+        .button {
+            border: 1px solid rgb(161, 116, 116);
+            background-color: rgb(155, 121, 74);
+            color: rgb(253, 253, 253);
+            padding: 100px 150px 100px 150px;
+            margin: 5px;
+            
+            }
